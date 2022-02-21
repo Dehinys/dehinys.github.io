@@ -140,7 +140,7 @@ header .header-2.header-active{
     align-items: center;
     justify-content: end;
     min-height: 100vh;
-    background:url(../img/bg.png) no-repeat;
+    background:url(../bg.png) no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -375,7 +375,7 @@ header .header-2.header-active{
 
 .order{
     min-height: 100vh;
-    background:url(../img/order-bg.jpg) no-repeat;
+    background:url(../order-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     padding-bottom: 2rem;
